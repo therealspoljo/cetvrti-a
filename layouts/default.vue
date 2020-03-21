@@ -51,17 +51,10 @@
 import moment from 'moment'
 
 export default {
-    methods: {
-        moment() {
-            return moment()
-        },
-    },
-
     computed: {
         lastUpdated() {
-            return '21. ožujka 2020.'
-            // moment.locale('hr')
-            // return moment.format('MMMM Do YYYY, h:mm:ss a')
+            moment().locale('hr')
+            return moment(new Date()).format('Do MMM YYYY, H:mm:ss')
         },
     },
 }
