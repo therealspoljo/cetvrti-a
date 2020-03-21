@@ -6,7 +6,7 @@
                     <nuxt-link class="text-6xl font-bold" to="/">4.a</nuxt-link>
                 </div>
                 <div class="lg:ml-auto">
-                    <ul class="flex items-center flex-col lg:flex-row text-lg lg:text-base font-semibold">
+                    <ul class="flex items-center flex-col lg:flex-row text-lg lg:text-base font-semibold text-gray-500">
                         <li class="mb-2 lg:mb-0 lg:mr-4">
                             <nuxt-link class="block p-2" to="/">Početna</nuxt-link>
                         </li>

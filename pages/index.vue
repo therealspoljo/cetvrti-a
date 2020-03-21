@@ -11,16 +11,13 @@
                         />
                     </div>
                     <div class="lg:w-1/2">
-                        <h1 class="text-3xl font-semibold mb-10">Dobro došla draga djeco!</h1>
+                        <h1 class="text-3xl font-semibold mb-10">Dobro došli dragi učenici!</h1>
                         <div class="text-xl max-w-sm">
-                            <p class="mb-4">
-                                Ovdje možete pronaći radni materijal i poveznice za učenje na daljinu, a dobivat ćete po
-                                potrebi i zadaću.
+                            <p class="mb-6">
+                                Ovdje možete pronaći radni materijal i poveznice za učenje na daljinu. Dobivat ćete po
+                                potrebi i zadaću koju ću pregledavati četvrtkom u popodnevnim satima. Molim vas, šaljite
+                                ju kao i do sada. 😊
                             </p>
-                            <p class="mb-2">
-                                Pregled zadaće provodit ću četvrtkom u popodnevnim satima.
-                            </p>
-                            <p class="mb-8">Zadaće slati kao i do sada.</p>
                             <p>Sretno!</p>
                             <p class="mb-10">Vaša učiteljica Tanja</p>
                             <div class="flex items-center mb-10">
