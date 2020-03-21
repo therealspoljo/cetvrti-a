@@ -40,6 +40,8 @@
                 <p>Posljednje ažuriranje: {{ lastUpdated }}</p>
             </div>
         </footer>
+
+        <div class="hidden"><span class="nuxt-link-exact-active"></span></div>
     </div>
 </template>
 
