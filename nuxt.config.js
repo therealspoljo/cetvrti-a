@@ -27,18 +27,16 @@ export default {
     /*
      ** Nuxt.js dev-modules
      */
-    buildModules: [
-        // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-        '@nuxtjs/tailwindcss',
-    ],
+    buildModules: ['@nuxtjs/tailwindcss', '@nuxtjs/moment'],
+    moment: {
+        defaultTimezone: 'Europe/Zagreb',
+        defaultLocale: 'hr',
+        locales: ['hr'],
+    },
     /*
      ** Nuxt.js modules
      */
-    modules: [
-        '@nuxtjs/pwa',
-        // Doc: https://github.com/nuxt-community/dotenv-module
-        '@nuxtjs/dotenv',
-    ],
+    modules: ['@nuxtjs/pwa', '@nuxtjs/axios'],
     /*
      ** Build configuration
      */
