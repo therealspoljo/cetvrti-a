@@ -1,7 +1,7 @@
 <template>
     <section class="container mx-auto">
         <div class="px-8">
-            <h1 class="mb-10 font-bold text-3xl">Hrvatski jezik</h1>
+            <h1 class="mb-10 font-bold text-3xl">📖 Hrvatski jezik</h1>
             <ul>
                 <li>
                     <a
