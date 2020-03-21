@@ -2,14 +2,7 @@
     <div>
         <section class="container mx-auto">
             <div class="px-8">
-                <div class="lg:flex lg:flex-row-reverse">
-                    <div class="lg:w-1/2 mb-20 lg:mb-0">
-                        <img
-                            class="block w-full max-w-md lg:max-w-none mx-auto"
-                            src="/children-world.jpg"
-                            alt="Zajedništvo"
-                        />
-                    </div>
+                <div class="lg:flex">
                     <div class="lg:w-1/2">
                         <h1 class="text-3xl font-semibold mb-10">Dobro došli dragi učenici!</h1>
                         <div class="text-xl max-w-sm">
@@ -44,6 +37,13 @@
                                 </a>
                             </p>
                         </div>
+                    </div>
+                    <div class="lg:w-1/2 mt-20 lg:mt-0">
+                        <img
+                            class="block w-full max-w-md lg:max-w-none mx-auto"
+                            src="/children-world.jpg"
+                            alt="Zajedništvo"
+                        />
                     </div>
                 </div>
             </div>

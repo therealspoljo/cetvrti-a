@@ -5,8 +5,10 @@
                 <div class="mb-10 lg:mb-0 lg:mr-8">
                     <nuxt-link class="text-6xl font-bold" style="text-decoration:none!important;" to="/">4.a</nuxt-link>
                 </div>
-                <div class="lg:ml-auto">
-                    <ul class="flex items-center flex-col lg:flex-row text-lg lg:text-base font-semibold text-gray-500">
+                <div class="w-full lg:w-auto lg:ml-auto">
+                    <ul
+                        class="lg:flex items-center flex-col lg:flex-row text-lg lg:text-base font-semibold text-gray-500"
+                    >
                         <li class="mb-2 lg:mb-0 lg:mr-4">
                             <nuxt-link class="block p-2" to="/">Početna</nuxt-link>
                         </li>
