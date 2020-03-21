@@ -47,10 +47,7 @@
 
         <footer class="mt-32 mb-10 container mx-auto">
             <div class="px-8 py-6">
-                <p>
-                    Posljednje ažuriranje:
-                    {{ 'test' }}
-                </p>
+                <p>Posljednje ažuriranje: {{ lastCommit }}</p>
             </div>
         </footer>
 
@@ -66,10 +63,6 @@ export default {
         lastCommit() {
             return this.$moment(new Date(this.$store.state.lastCommit)).format('Do MMMM YYYY, H:mm:ss')
         },
-    },
-
-    mounted() {
-        console.log(this.lastCommit)
     },
 }
 </script>
