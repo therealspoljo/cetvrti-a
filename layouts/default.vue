@@ -3,7 +3,7 @@
         <nav class="container mx-auto mb-20">
             <div class="px-8 py-6 flex items-center flex-col lg:flex-row text-center">
                 <div class="mb-10 lg:mb-0 lg:mr-8">
-                    <nuxt-link class="text-6xl font-bold" to="/">4.a</nuxt-link>
+                    <nuxt-link class="text-6xl font-bold" style="text-decoration:none!important;" to="/">4.a</nuxt-link>
                 </div>
                 <div class="lg:ml-auto">
                     <ul class="flex items-center flex-col lg:flex-row text-lg lg:text-base font-semibold text-gray-500">
@@ -11,22 +11,22 @@
                             <nuxt-link class="block p-2" to="/">Početna</nuxt-link>
                         </li>
                         <li class="mb-2 lg:mb-0 lg:mr-4">
-                            <nuxt-link class="block p-2" to="/hrvatski-jezik">Hrvatski jezik</nuxt-link>
+                            <nuxt-link class="block p-2" to="/hrvatski-jezik">📖 Hrvatski jezik</nuxt-link>
                         </li>
                         <li class="mb-2 lg:mb-0 lg:mr-4">
-                            <nuxt-link class="block p-2" to="/matematika">Matematika</nuxt-link>
+                            <nuxt-link class="block p-2" to="/matematika">➗ Matematika</nuxt-link>
                         </li>
                         <li class="mb-2 lg:mb-0 lg:mr-4">
-                            <nuxt-link class="block p-2" to="/priroda-i-drustvo">Priroda i društvo</nuxt-link>
+                            <nuxt-link class="block p-2" to="/priroda-i-drustvo">🌳 Priroda i društvo</nuxt-link>
                         </li>
                         <li class="mb-2 lg:mb-0 lg:mr-4">
-                            <nuxt-link class="block p-2" to="/likovna-kultura">Likovna kultura</nuxt-link>
+                            <nuxt-link class="block p-2" to="/likovna-kultura">🎨 Likovna kultura</nuxt-link>
                         </li>
                         <li class="mb-2 lg:mb-0 lg:mr-4">
-                            <nuxt-link class="block p-2" to="/glazbena-kultura">Glazbena kultura</nuxt-link>
+                            <nuxt-link class="block p-2" to="/glazbena-kultura">🎶 Glazbena kultura</nuxt-link>
                         </li>
                         <li>
-                            <nuxt-link class="block p-2" to="/tzk">TZK</nuxt-link>
+                            <nuxt-link class="block p-2" to="/tzk">⚽ TZK</nuxt-link>
                         </li>
                     </ul>
                 </div>
