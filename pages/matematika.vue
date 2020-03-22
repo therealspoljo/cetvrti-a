@@ -30,10 +30,6 @@
                         <i class="font-semibold">Zadatak 3</i>: U Jadranskome moru živi 3 540 biljnih i životinjskih
                         vrsta. Ako ih je jednako mnogo, izračunaj koliko je biljnih, a koliko životinjskih vrsta.
                     </p>
-                    <p class="mb-1">
-                        Koliko će životinjskih vrsta biti za pet godina, ako ih godišnje izumre 125, a ne pojavi se
-                        nijedna nova?
-                    </p>
                     <p>
                         Račun: <br />
                         Odgovor:
