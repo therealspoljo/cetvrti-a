@@ -28,15 +28,27 @@ export default {
      ** Nuxt.js dev-modules
      */
     buildModules: ['@nuxtjs/tailwindcss', '@nuxtjs/moment'],
+    /*
+     ** Nuxt.js axios module
+     */
     moment: {
         defaultTimezone: 'Europe/Zagreb',
         defaultLocale: 'hr',
         locales: ['hr'],
     },
     /*
+     ** Nuxt.js PWA module
+     */
+    pwa: {
+        meta: {
+            name: 'Četvrti a - OŠ Ivana Rabljanina Rab',
+            lang: 'hr',
+        },
+    },
+    /*
      ** Nuxt.js modules
      */
-    modules: ['@nuxtjs/pwa', '@nuxtjs/axios'],
+    modules: ['@nuxtjs/axios', '@nuxtjs/pwa'],
     /*
      ** Build configuration
      */
