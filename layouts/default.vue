@@ -61,7 +61,7 @@ import { mapMutations } from 'vuex'
 export default {
     computed: {
         lastCommit() {
-            return this.$moment(new Date(this.$store.state.lastCommit)).format('Do MMMM YYYY, H:mm:ss')
+            return this.$moment(new Date(this.$store.state.lastCommit)).format('Do MMMM YYYY, HH:mm')
         },
     },
 }
