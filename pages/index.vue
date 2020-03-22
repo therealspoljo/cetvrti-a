@@ -31,6 +31,7 @@
                                 <a
                                     class="text-blue-600 underline"
                                     target="_blank"
+                                    rel="noopener"
                                     href="https://skolazazivot.hr/rn-4-razred/"
                                 >
                                     Škola za život
