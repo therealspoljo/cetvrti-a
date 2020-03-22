@@ -2,17 +2,39 @@
     <section class="container mx-auto">
         <div class="px-8">
             <h1 class="mb-10 font-bold text-3xl">🎶 Glazbena kultura</h1>
-            <ul>
-                <li>
-                    <a
-                        class="text-blue-600 underline"
-                        target="_blank"
-                        href="https://www.youtube.com/watch?v=l-dYNttdgl0"
-                    >
-                        &#128279; A. Vivaldi - Proljeće
-                    </a>
-                </li>
-            </ul>
+
+            <div class="mb-10 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">PONEDJELJAK, 23. ožujka</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Poslušajmo:</i>
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
+                            href="https://www.youtube.com/watch?v=zT4RcfkC3lo"
+                        >
+                            &#128279; Teče, teče bistra voda
+                        </a>
+                    </p>
+                </div>
+            </div>
+
+            <div>
+                <h2 class="font-semibold mb-5">Poveznice:</h2>
+                <ul>
+                    <li>
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
+                            href="https://www.youtube.com/watch?v=l-dYNttdgl0"
+                        >
+                            &#128279; A. Vivaldi - Proljeće
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </section>
 </template>

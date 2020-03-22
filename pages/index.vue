@@ -44,6 +44,8 @@
                             class="block w-full max-w-md lg:max-w-none mx-auto"
                             src="https://res.cloudinary.com/apartments-flora-rab/image/upload/c_fill,w_750,h_750,q_15/v1584831715/CetvrtiA/children-world_ntt6wu.jpg"
                             alt="Zajedništvo"
+                            height="750"
+                            width="750"
                         />
                     </div>
                 </div>
