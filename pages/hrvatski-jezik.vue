@@ -14,11 +14,31 @@
                     137. stranici i riješite 19. zadatak na 141. stranici.
                 </p>
                 <div class="flex">
-                    <a class="w-1/2 pr-2" target="_blank" href="/hrvatski-jezik/voda_u_mom_srcu_1.jpg">
-                        <img class="block" src="/hrvatski-jezik/voda_u_mom_srcu_1.jpg" alt="voda_u_mom_srcu_1.jpg" />
+                    <a
+                        class="w-1/2 pr-2"
+                        target="_blank"
+                        rel="noopener"
+                        href="https://res.cloudinary.com/apartments-flora-rab/image/upload/c_fill,w_750,q_75/v1584831715/CetvrtiA/voda_u_mom_srcu_1_fuods4.jpg"
+                    >
+                        <img
+                            class="block"
+                            src="https://res.cloudinary.com/apartments-flora-rab/image/upload/c_fill,w_400,q_75/v1584831715/CetvrtiA/voda_u_mom_srcu_1_fuods4.jpg"
+                            alt="Voda u mom srcu, slika 1"
+                            width="400"
+                        />
                     </a>
-                    <a class="w-1/2 pl-2" target="_blank" href="/hrvatski-jezik/voda_u_mom_srcu_2.jpg">
-                        <img class="block" src="/hrvatski-jezik/voda_u_mom_srcu_2.jpg" alt="voda_u_mom_srcu_2.jpg" />
+                    <a
+                        class="w-1/2 pl-2"
+                        target="_blank"
+                        rel="noopener"
+                        href="https://res.cloudinary.com/apartments-flora-rab/image/upload/c_fill,w_750,q_75/v1584831715/CetvrtiA/voda_u_mom_srcu_2_upd7an.jpg"
+                    >
+                        <img
+                            class="block"
+                            src="https://res.cloudinary.com/apartments-flora-rab/image/upload/c_fill,w_400,q_75/v1584831715/CetvrtiA/voda_u_mom_srcu_2_upd7an.jpg"
+                            alt="Voda u mom srcu, slika 2"
+                            width="400"
+                        />
                     </a>
                 </div>
             </div>
