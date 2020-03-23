@@ -1,9 +1,9 @@
 <template>
     <section class="container mx-auto">
         <div class="px-8">
-            <h1 class="mb-10 font-bold text-3xl">📖 Hrvatski jezik</h1>
+            <h1 class="mb-15 font-bold text-3xl">📖 Hrvatski jezik</h1>
 
-            <div class="mb-10 max-w-3xl border-l-2 pl-2">
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">PONEDJELJAK, 23. ožujka</h2>
                 <p class="mb-4">
                     Pročitajte priču <i class="font-semibold">Voda u mom srcu</i> na 137. stranici, zatim napišite

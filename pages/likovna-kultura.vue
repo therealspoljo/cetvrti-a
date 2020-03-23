@@ -1,7 +1,7 @@
 <template>
     <section class="container mx-auto">
         <div class="px-8">
-            <h1 class="mb-10 font-bold text-3xl">🎨 Likovna kultura</h1>
+            <h1 class="mb-15 font-bold text-3xl">🎨 Likovna kultura</h1>
 
             <div>
                 <h2 class="font-semibold mb-5">Poveznice:</h2>

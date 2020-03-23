@@ -1,9 +1,44 @@
 <template>
     <section class="container mx-auto">
         <div class="px-8">
-            <h1 class="mb-10 font-bold text-3xl">🌳 Priroda i društvo</h1>
+            <h1 class="mb-15 font-bold text-3xl">🌳 Priroda i društvo</h1>
 
-            <div class="mb-10 max-w-3xl border-l-2 pl-2">
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">SRIJEDA, 25. ožujka</h2>
+                <div class="mb-2">
+                    <p>
+                        <i class="font-semibold">Zadatak</i>: Istražite i napišite po tri natuknice o VUČEDOLSKOJ
+                        GOLUBICI (JAREBICI) i VINKOVAČKIM JESENIMA.
+                    </p>
+                </div>
+                <div>
+                    <h2 class="font-semibold mb-3">Poveznice:</h2>
+                    <ul>
+                        <li class="mb-2">
+                            <a
+                                class="text-blue-600 underline"
+                                target="_blank"
+                                rel="noopener"
+                                href="https://www.enciklopedija.hr/natuknica.aspx?ID=65567"
+                            >
+                                &#128279; Vučedolska kultura - Enciklopedija.hr
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                class="text-blue-600 underline"
+                                target="_blank"
+                                rel="noopener"
+                                href="http://vinkovackejeseni.hr/o-nama/"
+                            >
+                                &#128279; Vinkovačke jeseni
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">PONEDJELJAK, 23. ožujka</h2>
                 <div class="mb-4">
                     <p class="mb-1">
