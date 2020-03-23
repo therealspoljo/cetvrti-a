@@ -6,7 +6,7 @@
             <div>
                 <h2 class="font-semibold mb-5">Poveznice:</h2>
                 <ul>
-                    <li>
+                    <li class="mb-3">
                         <a
                             class="text-blue-600 underline"
                             target="_blank"
@@ -14,6 +14,16 @@
                             href="/likovna-kultura/kompozicija_i_nijanse_boja.pdf"
                         >
                             &#128279; Kompozicija i nijanse boja
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
+                            href="/likovna-kultura/kontrast_toplih_i_hladnih_boja_cudesna_suma.pdf"
+                        >
+                            &#128279; Kontrast toplih i hladnih boja
                         </a>
                     </li>
                 </ul>
