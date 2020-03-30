@@ -31,7 +31,7 @@
             </div>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
-                <h2 class="underline mb-5">SRIJEDA, 2. travnja</h2>
+                <h2 class="underline mb-5">SRIJEDA, 1. travnja</h2>
                 <div>
                     <div class="grid grid-cols-2 gap-10">
                         <div>

@@ -4,7 +4,7 @@
             <h1 class="mb-15 font-bold text-3xl">📖 Hrvatski jezik</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
-                <h2 class="underline mb-5">ČETVRTAK, 1. travnja</h2>
+                <h2 class="underline mb-5">ČETVRTAK, 2. travnja</h2>
                 <div>
                     <div class="pl-5">
                         <p>
