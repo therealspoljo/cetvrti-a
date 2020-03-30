@@ -4,6 +4,27 @@
             <h1 class="mb-15 font-bold text-3xl">🌳 Priroda i društvo</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 31. ožujka</h2>
+                <div>
+                    <div>
+                        <p>
+                            <i class="font-semibold">Zadatak 1</i>: U neobičnim riječima pronađi glavne dijelove biljke.
+                            Čitaj slijeva nadesno i zdesna nalijevo. Pronađene pojmove zaokruži.
+                        </p>
+                        <div>
+                            <span>LATICACVIJETMED</span> <span class="ml-20">JENKORIJENCENTI</span> <br />
+                            <span>DOLPDINAEMINAA</span> <span class="ml-20">KISTLISTRUNOLIST</span> <br />
+                            <span>AKILJBATSSTABLO</span>
+                        </div>
+                    </div>
+                    <p class="mt-4">
+                        <i class="font-semibold">Zadatak 2</i>: U bilježnicu nacrtaj biljku i označi njezine glavne
+                        dijelove.
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">SRIJEDA, 25. ožujka</h2>
                 <div class="mb-2">
                     <p>

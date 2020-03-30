@@ -4,6 +4,76 @@
             <h1 class="mb-15 font-bold text-3xl">➗ Matematika</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">PETAK, 3. travnja</h2>
+                <div>
+                    <p><i class="font-semibold">Zadatak 1</i>:</p>
+                    <p class="mt-1 underline">a = 6 cm</p>
+                    <p class="mt-1">O = ?</p>
+                    <p>P = ?</p>
+                </div>
+                <div class="mt-4">
+                    <p><i class="font-semibold">Zadatak 2</i>:</p>
+                    <p class="mt-1">a = 5 cm</p>
+                    <p class="underline">b = 7 cm</p>
+                    <p class="mt-1">O = ?</p>
+                    <p>P = ?</p>
+                </div>
+                <div class="mt-4">
+                    <p><i class="font-semibold">Zadatak 3</i>:</p>
+                    <p class="mt-1 underline">O = 24 cm</p>
+                    <p class="mt-1">a = ?</p>
+                    <p>a = O : 4</p>
+                </div>
+                <p class="mt-4">
+                    Riješite u radnoj bilježnici 4. zadatak na 62. stranici i 4. zadatak na 63. stranici.
+                </p>
+                <p class="mt-4">* Emily i Filipe, riješite samo <i>zadatak 1</i> i <i>zadatak 2</i>.</p>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">SRIJEDA, 2. travnja</h2>
+                <div>
+                    <div class="grid grid-cols-2 gap-10">
+                        <div>
+                            <p>KVADRAT</p>
+                            <p class="mt-2">O = 4 • a</p>
+                            <p>P = a • a</p>
+                            <p class="mt-2">npr.</p>
+                            <p class="underline">a = 2 cm</p>
+                            <p>O = 4 • 2 cm = 8 cm</p>
+                            <p>P = 2 cm • 2 cm = 4 cm<sup>2</sup></p>
+                        </div>
+                        <div>
+                            <p>PRAVOKUTNIK</p>
+                            <p class="mt-2">O = 2 • a + 2 • b = 2 • (a + b)</p>
+                            <p>P = a • b</p>
+                            <p class="mt-2">npr.</p>
+                            <p>a = 3 cm</p>
+                            <p class="underline">b = 4 cm</p>
+                            <p>O = 2 • 3 cm + 2 • 4 cm = 6 cm + 8 cm = 14 cm</p>
+                            <p>P = 3 cm • 4 cm = 12 cm<sup>2</sup></p>
+                        </div>
+                    </div>
+                    <p class="mt-4">
+                        <i class="font-semibold">Zadatak</i>: Nacrtaj geometrijski lik ABCD čija duljina stranice AB
+                        iznosi 6cm, a duljina stranice BC je dva puta manja.
+                    </p>
+                    <ul class="mt-2">
+                        <li>a) Koji si geometrijski lik nacrtala/nacrtao?</li>
+                        <li>b) Izračunaj opseg toga lika.</li>
+                        <li>c) Izračunaj površinu toga lika.</li>
+                    </ul>
+                    <p class="mt-4">
+                        Riješite 2. i 3. zadatak na 60. stranici i 1. zadatak na 63. stranici u radnoj bilježnici.
+                    </p>
+                    <p class="mt-4">
+                        * Emily i Filipe, riješite samo 2. i 3. zadatak na 60. stranici i 1. zadatak na 63. stranici u
+                        radnoj bilježnici.
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">UTORAK, 24. ožujka</h2>
                 <div class="mb-4">
                     <div class="mb-1">
