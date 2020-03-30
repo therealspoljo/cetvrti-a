@@ -9,13 +9,13 @@
                     <div class="pl-5">
                         <p>
                             <i>
-                                "Bijele cipelice <br />
-                                i crvena lopta <br />
-                                u zelenom proljeću."
+                                "Usred bresaka <br />
+                                što posvud su u cvatu- <br />
+                                procvala trešnja."
                             </i>
                         </p>
                         <p class="mt-2 pl-8">
-                            Dubravko Ivančan
+                            Matsuo Basho
                         </p>
                     </div>
                     <p class="mt-4">
