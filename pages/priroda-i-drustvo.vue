@@ -21,6 +21,17 @@
                         <i class="font-semibold">Zadatak 2</i>: U bilježnicu nacrtaj biljku i označi njezine glavne
                         dijelove.
                     </p>
+                    <p class="mt-4">
+                        <i class="font-semibold">Zadatak 3</i>: Uzgojite novu biljku od ostataka voća i povrća. <br />
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
+                            href="https://www.agroportal.hr/ekoloska-poljoprivreda/28344"
+                        >
+                            &#128279; Kako uzgojiti nove biljke od ostataka voća i povrća
+                        </a>
+                    </p>
                 </div>
             </div>
 
