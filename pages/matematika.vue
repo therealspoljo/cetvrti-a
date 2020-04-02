@@ -27,7 +27,7 @@
                 <p class="mt-4">
                     Riješite u radnoj bilježnici 4. zadatak na 62. stranici i 4. zadatak na 63. stranici.
                 </p>
-                <p class="mt-4">* Emily i Filipe, riješite samo <i>zadatak 1</i> i <i>zadatak 2</i>.</p>
+                <p class="mt-4">* Emily i Filipe, riješite <i>zadatak 1</i> i <i>zadatak 2</i>.</p>
             </div>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">

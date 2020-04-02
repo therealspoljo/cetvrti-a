@@ -53,9 +53,8 @@
                 </div>
                 <p class="mt-4">
                     <i class="font-semibold">Zadatak</i>: Naučite izražajno čitati pjesmu <i>Dolazak proljeća</i> u
-                    čitanci na 131. stranici i riješite 5., 6. i 7. zadatak. U pjesmi uočite rimu te zaokružite riječi
-                    koje se rimuju zelenom bojom. Prepoznajte u pjesmi personifikaciju i podcrtajte taj stih plavom
-                    bojom.
+                    čitanci na 131. stranici i riješite 5., 6. i 7. zadatak. U pjesmi uočite rimu te zelenom bojom
+                    zaokružite riječi koje se rimuju. Prepoznajte personifikaciju te je podcrtajte plavom bojom.
                 </p>
                 <p class="mt-4">* Emily i Filipe, od vas tražim da riješite 5., 6. i 7. zadatak u čitanci.</p>
             </div>
