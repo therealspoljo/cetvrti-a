@@ -107,6 +107,16 @@
                             class="text-blue-600 underline"
                             target="_blank"
                             rel="noopener"
+                            href="https://sites.google.com/view/obiteljskacitaonicanasice/home"
+                        >
+                            &#128279; Obiteljska čitaonica
+                        </a>
+                    </li>
+                    <li class="mb-3">
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
                             href="https://sites.google.com/view/knjiznica-os-rab"
                         >
                             &#128279; Virtualna knjižnica OŠ Ivana Rabljanina Rab
