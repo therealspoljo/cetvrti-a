@@ -4,6 +4,16 @@
             <h1 class="mb-15 font-bold text-3xl">🌳 Priroda i društvo</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 7. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak</i>: Istraži o mravu i maslačku te napiši nekoliko podataka o
+                        njima.
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">UTORAK, 31. ožujka</h2>
                 <div>
                     <div>

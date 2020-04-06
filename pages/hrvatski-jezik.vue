@@ -4,6 +4,58 @@
             <h1 class="mb-15 font-bold text-3xl">📖 Hrvatski jezik</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">SRIJEDA, 8. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak 1</i>: U čitanci pročitaj Proljetnu priču (164. Stranica) i
+                        nacrtaj što su obje koke vidjele.(35.zadatak)
+                    </p>
+                    <div>
+                        <p class="mt-4">
+                            <i class="font-semibold">Zadatak 2</i>: Napiši činkvinu (talijanska narodna pjesma od 5
+                            stihova) o pisanici (oslikano jaje).
+                        </p>
+                        <p>
+                            Prisjetimo se: <br />
+                            1.stih = IMENICA <br />
+                            2.stih = 2 PRIDJEVA koji opisuju imenicu iz 1. stiha <br />
+                            3.stih = 3 GLAGOLA, a može i glagolska imenica npr. cvjetanje, darivanje i sl. <br />
+                            4.stih = ČETIRI RIJEČI ILI REČENICA koja objašnjava imenicu iz 1. stiha <br />
+                            5.stih = IMENICA koja je u vezi s početnom imenicom
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">PONEDJELJAK, 6. travnja</h2>
+                <div>
+                    <div>
+                        <p>
+                            <i class="font-semibold">Zadatak</i>: Zaokruži u rečenicama pogrešno napisane riječi i
+                            prepiši tekst pravilno. Točnost provjeri u pravopisu.
+                        </p>
+                        <p class="mt-2">
+                            Sunce je grijalo I obasijavalo nježne ćuperke zelene trave. Mrav je čućao ispod maslačkovog
+                            lista i čavrljao s drugim žutim mravom koji se naslonio na korjenćić. Čula se rjećica u
+                            blizini. Cvjetovi I cvijetići darivali su osmijeh dijeci koja su prolazila. Vrijeme je bilo
+                            čarobno. Poslije se pojavio mjesec u pratnji stotinu zvijezdica. Osječao se nježni vijetar u
+                            zraku, a mjesečina je pozdravljala noč.
+                        </p>
+                        <div class="mt-3">
+                            <img
+                                class="block w-full sm:w-96 md:w-1/2"
+                                src="https://res.cloudinary.com/apartments-flora-rab/image/upload/c_fill,w_500,h_300,q_75/v1586164007/CetvrtiA/maslacak_lyqasi.jpg"
+                                alt="Maslacak"
+                                height="300"
+                                width="500"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">ČETVRTAK, 2. travnja</h2>
                 <div>
                     <div class="pl-5">

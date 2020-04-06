@@ -4,6 +4,32 @@
             <h1 class="mb-15 font-bold text-3xl">➗ Matematika</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 7. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak 1</i>: Izračunaj. Pazi na redoslijed izvođenja računskih
+                        radnji! (Najprije množimo i dijelimo potom zbrajamo i oduzimamo. Ako se u zadatku pojavi
+                        zagrada, najprije se nje rješavamo zatim računamo slijeva udesno.)
+                    </p>
+                    <p class="mt-2">32 + 56 : 8 =</p>
+                    <p>(32 + 56) : 8 =</p>
+                    <p>120 - 100 : 20 + 5 =</p>
+                    <p>18 + 3 • 5 – (15 - 5) : 2 =</p>
+                    <p>18 + 15 – 10 : 2 =</p>
+                    <p>230 + 200 : 20 - 10 =</p>
+                    <p>20 - (14 - 4) : 2 + 3 • 4 =</p>
+                </div>
+                <div class="mt-4">
+                    <p>
+                        <i class="font-semibold">Zadatak 2</i>: Podijeli pisanim postupkom i rezultat provjeri množenjem
+                    </p>
+                    <p class="mt-2">657 : 2 =</p>
+                    <p>57321 : 7 =</p>
+                    <p>8712 : 4 =</p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">PETAK, 3. travnja</h2>
                 <div>
                     <p><i class="font-semibold">Zadatak 1</i>:</p>
