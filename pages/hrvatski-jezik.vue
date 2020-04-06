@@ -7,13 +7,13 @@
                 <h2 class="underline mb-5">SRIJEDA, 8. travnja</h2>
                 <div>
                     <p>
-                        <i class="font-semibold">Zadatak 1</i>: U čitanci pročitaj Proljetnu priču (164. Stranica) i
-                        nacrtaj što su obje koke vidjele.(35.zadatak)
+                        <i class="font-semibold">Zadatak 1</i>: U čitanci pročitaj Proljetnu priču (164. stranica) i
+                        nacrtaj što su obje koke vidjele. (35. zadatak)
                     </p>
                     <div>
                         <p class="mt-4">
                             <i class="font-semibold">Zadatak 2</i>: Napiši činkvinu (talijanska narodna pjesma od 5
-                            stihova) o pisanici (oslikano jaje).
+                            stihova) o pisanici (oslikano uskršnje jaje).
                         </p>
                         <p>
                             Prisjetimo se: <br />
