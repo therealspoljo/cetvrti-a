@@ -7,8 +7,8 @@
                 <h2 class="underline mb-5">UTORAK, 7. travnja</h2>
                 <div>
                     <p>
-                        <i class="font-semibold">Zadatak</i>: Istraži o mravu i maslačku te napiši nekoliko podataka o
-                        njima.
+                        <i class="font-semibold">Zadatak 1</i>: Istraži o lastinom repu i maslačku te napiši nekoliko
+                        podataka o njima.
                     </p>
                 </div>
             </div>
