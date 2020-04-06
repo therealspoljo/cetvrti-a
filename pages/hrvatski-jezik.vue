@@ -13,7 +13,7 @@
                     <div>
                         <p class="mt-4">
                             <i class="font-semibold">Zadatak 2</i>: Napiši činkvinu (talijanska narodna pjesma od 5
-                            stihova) o pisanici (oslikano uskršnje jaje).
+                            stihova) o pisanici (oslikano jaje).
                         </p>
                         <p>
                             Prisjetimo se: <br />
