@@ -8,8 +8,7 @@
                         <div class="text-xl max-w-sm">
                             <p class="mb-6">
                                 Ovdje možete pronaći radni materijal i poveznice za učenje na daljinu. Dobivat ćete po
-                                potrebi i zadaću koju ću pregledavati petkom u popodnevnim satima. Šaljite ju petkom,
-                                najkasnije do 15 sati. 😊
+                                potrebi i zadaću koju ćete mi slati petkom do 15 sati. 😊
                             </p>
                             <p>Sretno!</p>
                             <p class="mb-10">Vaša učiteljica Tanja</p>

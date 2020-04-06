@@ -36,9 +36,9 @@
                             prepiši tekst pravilno. Točnost provjeri u pravopisu.
                         </p>
                         <p class="mt-2">
-                            Sunce je grijalo I obasijavalo nježne ćuperke zelene trave. Mrav je čućao ispod maslačkovog
+                            Sunce je grijalo i obasijavalo nježne ćuperke zelene trave. Mrav je čućao ispod maslačkovog
                             lista i čavrljao s drugim žutim mravom koji se naslonio na korjenćić. Čula se rjećica u
-                            blizini. Cvjetovi I cvijetići darivali su osmijeh dijeci koja su prolazila. Vrijeme je bilo
+                            blizini. Cvjetovi i cvijetići darivali su osmijeh dijeci koja su prolazila. Vrijeme je bilo
                             čarobno. Poslije se pojavio mjesec u pratnji stotinu zvijezdica. Osječao se nježni vijetar u
                             zraku, a mjesečina je pozdravljala noč.
                         </p>
