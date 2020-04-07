@@ -203,6 +203,16 @@
                             class="text-blue-600 underline"
                             target="_blank"
                             rel="noopener"
+                            href="https://youtu.be/rMyImeiAJqo"
+                        >
+                            &#128279; Dijeljenje dvoznamenkastim brojem - Youtube
+                        </a>
+                    </li>
+                    <li class="mt-3">
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
                             href="https://www.artrea.com.hr/matematika4raz.html"
                         >
                             &#128279; Matematika za 4. razred - Artrea
