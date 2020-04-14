@@ -17,7 +17,7 @@
                         rel="noopener"
                         href="https://www.youtube.com/watch?v=kOsf4t0BuIY"
                     >
-                        &#128279; Planeta Zemlja
+                        &#128279; Planet Zemlja
                     </a>
                 </div>
             </div>
