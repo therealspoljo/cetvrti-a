@@ -28,7 +28,7 @@
                             <p class="underline"><span class="-ml-px">-</span> 60</p>
                             <p class="ml-4">2 <small>ostatak</small></p>
                         </div>
-                        <div class="mt-2 pl-2 leading-5">
+                        <div class="pl-2 leading-5">
                             <p>Provjera:</p>
                             <p class="mt-1 underline">43 • 20</p>
                             <p>860</p>
