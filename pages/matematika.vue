@@ -4,6 +4,54 @@
             <h1 class="mb-15 font-bold text-3xl">➗ Matematika</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">SRIJEDA, 15. travnja</h2>
+                <p>
+                    <i class="font-semibold">Uoči</i>: <br />
+                    6 : 2 = 3 <br />
+                    60 : 20 = 3 <br />
+                    240 : 80 = 3
+                </p>
+                <div class="mt-4">
+                    <p><i class="font-semibold">Promotri</i>:</p>
+                    <div class="pl-2 leading-5">
+                        <p><strong>86</strong>0 : 20 = 43</p>
+                        <p class="underline"><span class="-ml-2">-</span> <span class="-ml-px">80</span></p>
+                        <p><span class="ml-2"></span> 60</p>
+                        <p class="underline"><span class="-ml-px">-</span> 60</p>
+                        <p class="ml-4">0</p>
+                    </div>
+                    <div class="flex mt-2">
+                        <div class="pl-2 leading-5 mr-4">
+                            <p><strong>86</strong>2 : 20 = 43</p>
+                            <p class="underline"><span class="-ml-2">-</span> <span class="-ml-px">80</span></p>
+                            <p><span class="ml-2"></span> 62</p>
+                            <p class="underline"><span class="-ml-px">-</span> 60</p>
+                            <p class="ml-4">2 <small>ostatak</small></p>
+                        </div>
+                        <div class="mt-2 pl-2 leading-5">
+                            <p>Provjera:</p>
+                            <p class="mt-1 underline">43 • 20</p>
+                            <p>860</p>
+                            <p class="inline -ml-2 border-b border-gray-700">+ <span class="ml-3 pl-px">2</span></p>
+                            <p>862</p>
+                        </div>
+                    </div>
+                </div>
+                <p class="mt-4">
+                    <i class="font-semibold">Zadatak</i>: Riješi 1. i 3. zadatak na 68. stranici, 2. i 5. zadatak na 72.
+                    stranici u RB te množenjem provjeri točnost dijeljenja.
+                </p>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 14. travnja</h2>
+                <p>
+                    <i class="font-semibold">Zadatak</i>: Odaberi jednu životnu zajednicu (šumu, travnjak ili more),
+                    biljku i životinju koja živi u njoj te sastavi svoju matematičku priču. Izračunaj.
+                </p>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">UTORAK, 7. travnja</h2>
                 <div>
                     <p>

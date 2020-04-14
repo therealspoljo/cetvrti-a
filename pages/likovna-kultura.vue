@@ -3,6 +3,13 @@
         <div class="px-8">
             <h1 class="mb-15 font-bold text-3xl">🎨 Likovna kultura</h1>
 
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 14. travnja</h2>
+                <div>
+                    <p><i class="font-semibold">Zadatak</i>: Nacrtaj šumu koja sudjeluje na natjecanju ljepote.</p>
+                </div>
+            </div>
+
             <div>
                 <h2 class="font-semibold mb-5">Poveznice:</h2>
                 <ul>

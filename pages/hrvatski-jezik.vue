@@ -4,6 +4,27 @@
             <h1 class="mb-15 font-bold text-3xl">📖 Hrvatski jezik</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">ČETVRTAK, 16. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak</i>: Izražajno pročitaj pjesmu
+                        <i class="font-bold">I ja volim prirodu</i> na 196. stranici čitanke pa riješi prvih 9 zadataka.
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 14. travnja</h2>
+                <div>
+                    <p><i class="font-semibold">Zadatak 1</i>: U koje je godišnje doba šuma tebi najljepša? Zašto?</p>
+                    <p class="mt-4">
+                        <i class="font-semibold">Zadatak 2</i>: Napiši poruku ljudima kako se trebaju ponašati i brinuti
+                        o šumama da bi bile zdrave i lijepe.
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">SRIJEDA, 8. travnja</h2>
                 <div>
                     <p>

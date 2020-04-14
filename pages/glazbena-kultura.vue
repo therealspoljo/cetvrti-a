@@ -4,6 +4,25 @@
             <h1 class="mb-15 font-bold text-3xl">🎶 Glazbena kultura</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">ČETVRTAK, 16. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak</i>: Poslušaj pjesmu
+                        <i class="font-bold">Planet Zemlja</i> povodom obilježavanja
+                        <i class="font-bold">Dana planeta Zemlje</i>, 22. travnja.
+                    </p>
+                    <a
+                        class="text-blue-600 underline mt-4"
+                        target="_blank"
+                        rel="noopener"
+                        href="https://www.youtube.com/watch?v=kOsf4t0BuIY"
+                    >
+                        &#128279; Planeta Zemlja
+                    </a>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">PONEDJELJAK, 30. ožujka</h2>
                 <div>
                     <p><i class="font-semibold">Poslušajmo:</i></p>

@@ -4,6 +4,57 @@
             <h1 class="mb-15 font-bold text-3xl">🌳 Priroda i društvo</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">PETAK, 17. travnja</h2>
+                <div>
+                    <p>
+                        <strong>* OVAJ ĆE ZADATAK BITI OCIJENJEN 24. TRAVNJA! *</strong> <br />
+                        <i class="font-semibold">Zadatak</i>: Izaberi jednu zaštićenu biljku ili životinju Republike
+                        Hrvatske i izradi o njoj plakat služeći se <i>Dječjom enciklopedijom</i> ili internetom.
+                    </p>
+                    <p class="mt-2">Npr. velebitska degenija; nacrtaj ju i zapiši:</p>
+                    <ul class="list-disc list-inside">
+                        <li>gdje raste</li>
+                        <li>na kojoj nadmorskoj visini</li>
+                        <li>tko i kada ju je otkrio</li>
+                        <li>koje je godine zaštićena</li>
+                        <li>na kojoj se kovanici nalazi</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">SRIJEDA, 15. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak 1</i>: Otkrij imena životinja koje žive u životnim zajednicama
+                        šume, travnjaka i mora. Rješenja napiši u odgovarajuće krugove.
+                    </p>
+                    <p class="mt-2">
+                        ACISIL, KAR, LENJE, RITPEL, PINDU, CAKRTI, VACSKAKA, UKV, VASO, DEJVDEM, IRBA, KNUA, RIVJECAVE,
+                        BOHOTNICA, ELAPČ, ZANAFA, AVMR, LICAPREPE
+                    </p>
+                    <div class="mt-4 flex flex-wrap justify-around">
+                        <div class="inline-block w-32 sm:w-48">
+                            <p class="text-center mb-2">travnjak</p>
+                            <span class="block w-32 sm:w-48 h-32 sm:h-48 rounded-full border border-red-500"></span>
+                        </div>
+                        <div class="inline-block w-32 sm:w-48">
+                            <p class="text-center mb-2">more</p>
+                            <span class="block w-32 sm:w-48 h-32 sm:h-48 rounded-full border border-blue-500"></span>
+                        </div>
+                        <div class="inline-block w-32 sm:w-48">
+                            <p class="text-center mb-2">šuma</p>
+                            <span class="block w-32 sm:w-48 h-32 sm:h-48 rounded-full border border-green-500"></span>
+                        </div>
+                    </div>
+                </div>
+                <p class="mt-6">
+                    <i class="font-semibold">Zadatak 2</i>: Nacionalne parkove u Hrvatskoj pravilno zapiši i njihova
+                    imena poredaj abecednim redom.
+                </p>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">UTORAK, 7. travnja</h2>
                 <div>
                     <p>
