@@ -35,8 +35,11 @@
                         <li class="mb-2 lg:mb-0 lg:mr-4">
                             <nuxt-link class="block p-2" :to="{ name: 'glazbena-kultura' }">Glazbena kultura</nuxt-link>
                         </li>
-                        <li>
+                        <li class="mb-2 lg:mb-0 lg:mr-4">
                             <nuxt-link class="block p-2" :to="{ name: 'tzk' }">TZK</nuxt-link>
+                        </li>
+                        <li>
+                            <nuxt-link class="block p-2" :to="{ name: 'sro' }">SRO</nuxt-link>
                         </li>
                     </ul>
                 </div>
@@ -56,8 +59,6 @@
 </template>
 
 <script>
-import { mapMutations } from 'vuex'
-
 export default {
     computed: {
         lastCommit() {

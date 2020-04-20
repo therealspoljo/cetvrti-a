@@ -4,6 +4,43 @@
             <h1 class="mb-15 font-bold text-3xl">➗ Matematika</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">UTORAK, 21. travnja</h2>
+                <div class="mt-4">
+                    <p>
+                        <i class="font-semibold">Zadatak 1</i>: Podijeli na dulji način i rezultat provjeri množenjem.
+                    </p>
+                    <p class="max-w-xs">
+                        <span>448 : 13 =</span>
+                        <span class="float-right">912 : 38 =</span>
+                    </p>
+                    <p class="max-w-xs">
+                        <span>360 : 14 =</span>
+                        <span class="float-right">705 : 47 =</span>
+                    </p>
+                    <p class="max-w-xs">
+                        <span>768 : 23 =</span>
+                        <span class="float-right">570 : 15 =</span>
+                    </p>
+                    <p class="max-w-xs">
+                        <span>3960 : 13 =</span>
+                        <span class="float-right">7630 : 74 =</span>
+                    </p>
+                    <p class="max-w-xs">
+                        <span>4328 : 16 =</span>
+                        <span class="float-right">9567 : 34 =</span>
+                    </p>
+                </div>
+                <div class="mt-4">
+                    <p>
+                        <i class="font-semibold">Zadatak 2</i>: Izračunaj pazeći na računske radnje 1. i 2. stupnja.
+                        Pazi kako računaš zadatak sa zagradom.
+                    </p>
+                    <p>348 • 25 + 19878 – 1232 : 22 =</p>
+                    <p>(585 : 15) • 13 + 3872 =</p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">SRIJEDA, 15. travnja</h2>
                 <p>
                     <i class="font-semibold">Uoči</i>: <br />
