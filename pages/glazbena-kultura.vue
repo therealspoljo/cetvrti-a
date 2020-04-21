@@ -76,6 +76,16 @@
                             class="text-blue-600 underline"
                             target="_blank"
                             rel="noopener"
+                            href="https://www.youtube.com/watch?v=AgSSAbY6VKU"
+                        >
+                            &#128279; Stvaramo glazbu
+                        </a>
+                    </li>
+                    <li class="mt-3">
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
                             href="https://www.youtube.com/watch?v=l-dYNttdgl0"
                         >
                             &#128279; A. Vivaldi - Proljeće

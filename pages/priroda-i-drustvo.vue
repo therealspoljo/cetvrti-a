@@ -177,6 +177,16 @@
                             class="text-blue-600 underline"
                             target="_blank"
                             rel="noopener"
+                            href="/priroda-i-drustvo/strip.jpeg"
+                        >
+                            &#128279; Zanimljivosti o Zemlji i životu na njoj
+                        </a>
+                    </li>
+                    <li class="mb-3">
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
                             href="https://wordwall.net/hr-hr/community/priroda-i-drustvo-4-razred"
                         >
                             &#128279; Priroda i društvo za 4. razred - Wordwall

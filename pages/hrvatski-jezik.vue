@@ -4,6 +4,40 @@
             <h1 class="mb-15 font-bold text-3xl">📖 Hrvatski jezik</h1>
 
             <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">ČETVRTAK, 23. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Ponavljanje</i>:
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
+                            href="https://docs.google.com/forms/d/e/1FAIpQLSdJ3N5EUWAHa5VYhAvNUCa5B-i7fpE8QIGXW1uWmKE5r49bVQ/viewform"
+                        >
+                            "Vrste riječi i veliko početno slovo"
+                        </a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
+                <h2 class="underline mb-5">SRIJEDA, 22. travnja</h2>
+                <div>
+                    <p>
+                        <i class="font-semibold">Zadatak</i>: Završi priču
+                        <a
+                            class="text-blue-600 underline"
+                            target="_blank"
+                            rel="noopener"
+                            href="/hrvatski-jezik/strip.jpeg"
+                        >
+                            "Kako pomoći Zemlji da ozdravi?"
+                        </a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="mb-15 max-w-3xl border-l-2 pl-2">
                 <h2 class="underline mb-5">ČETVRTAK, 16. travnja</h2>
                 <div>
                     <p>
