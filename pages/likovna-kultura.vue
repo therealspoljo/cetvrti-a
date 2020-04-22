@@ -1,40 +1,41 @@
 <template>
-    <section class="container mx-auto">
-        <div class="px-8">
-            <h1 class="mb-15 font-bold text-3xl">🎨 Likovna kultura</h1>
+  <section class="container mx-auto">
+    <div class="px-8 space-y-15">
+      <h1 class="font-bold text-3xl">🎨 Likovna kultura</h1>
 
-            <div class="mb-15 max-w-3xl border-l-2 pl-2">
-                <h2 class="underline mb-5">UTORAK, 14. travnja</h2>
-                <div>
-                    <p><i class="font-semibold">Zadatak</i>: Nacrtaj šumu koja sudjeluje na natjecanju ljepote.</p>
-                </div>
-            </div>
+      <post title="UTORAK, 14. travnja">
+        <assignment>
+          <template v-slot:title>
+            Nacrtaj šumu koja sudjeluje na natjecanju ljepote.
+          </template>
+        </assignment>
+      </post>
 
-            <div>
-                <h2 class="font-semibold mb-5">Poveznice:</h2>
-                <ul>
-                    <li class="mb-3">
-                        <a
-                            class="text-blue-600 underline"
-                            target="_blank"
-                            rel="noopener"
-                            href="/likovna-kultura/kompozicija_i_nijanse_boja.pdf"
-                        >
-                            &#128279; Kompozicija i nijanse boja
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            class="text-blue-600 underline"
-                            target="_blank"
-                            rel="noopener"
-                            href="/likovna-kultura/kontrast_toplih_i_hladnih_boja_cudesna_suma.pdf"
-                        >
-                            &#128279; Kontrast toplih i hladnih boja
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
+      <div>
+        <h2><i><span class="font-semibold">Poveznice</span>:</i></h2>
+        <ul class="space-y-2 mt-2">
+          <li>
+            <a
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener"
+              href="/likovna-kultura/kompozicija_i_nijanse_boja.pdf"
+            >
+              &#128279; <span class="underline">Kompozicija i nijanse boja</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener"
+              href="/likovna-kultura/kontrast_toplih_i_hladnih_boja_cudesna_suma.pdf"
+            >
+              &#128279; <span class="underline">Kontrast toplih i hladnih boja</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
 </template>

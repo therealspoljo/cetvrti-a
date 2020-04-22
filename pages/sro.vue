@@ -1,33 +1,33 @@
 <template>
-    <section class="container mx-auto">
-        <div class="px-8">
-            <h1 class="mb-15 font-bold text-3xl">💡 Sat razrednog odjela</h1>
+  <section class="container mx-auto">
+    <div class="px-8 space-y-15">
+      <h1 class="font-bold text-3xl">💡 Sat razrednog odjela</h1>
 
-            <div>
-                <h2 class="font-semibold mb-5">Poveznice:</h2>
-                <ul>
-                    <li>
-                        <a
-                            class="text-blue-600 underline"
-                            target="_blank"
-                            rel="noopener"
-                            href="https://www.poliklinika-djeca.hr/wp-content/uploads/2020/04/Kartice-za-kišne-dane1-1.pdf"
-                        >
-                            &#128279; 55 ideja za obiteljske aktivnosti
-                        </a>
-                    </li>
-                    <li class="mt-3">
-                        <a
-                            class="text-blue-600 underline"
-                            target="_blank"
-                            rel="noopener"
-                            href="/sro/mindfulness-kratke-vježbe-2.pdf"
-                        >
-                            &#128279; Mindfulnesss - kratke vježbe
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
+      <div>
+        <h2><i><span class="font-semibold">Poveznice</span>:</i></h2>
+        <ul class="space-y-2 mt-2">
+          <li>
+            <a
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener"
+              href="https://www.poliklinika-djeca.hr/wp-content/uploads/2020/04/Kartice-za-kišne-dane1-1.pdf"
+            >
+              &#128279; <span class="underline">55 ideja za obiteljske aktivnosti</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener"
+              href="/sro/mindfulness-kratke-vježbe-2.pdf"
+            >
+              &#128279; <span class="underline">Mindfulnesss - kratke vježbe</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
 </template>
