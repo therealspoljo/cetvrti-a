@@ -14,7 +14,7 @@
       <post title="PONEDJELJAK, 27. travnja">
         <assignment title="Zadatak">
           <template v-slot:title>
-            Pozorno pročitaj sve korake i savjete u opisivanju krajolika:
+            Pozorno prouči sve korake i savjete u opisivanju krajolika:
             <a
               class="text-blue-600 underline"
               target="_blank"
