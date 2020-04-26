@@ -3,7 +3,7 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🎶 Glazbena kultura</h1>
 
-      <post title="UTORAK, 18. travnja">
+      <post title="UTORAK, 28. travnja">
         <assignment title="Zadatak">
           <template v-slot:title>
             Poslušaj glazbeni duet:

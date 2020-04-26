@@ -8,6 +8,9 @@
           <template v-slot:title>
             Riješi 1., 2. i 5. zadatak na 78. stranici udžbenika. Pazi na redoslijed izvođenja računskih radnji!
           </template>
+          <template v-slot:default>
+            * Emily i Filipe, riješite samo 1. zadatak na 78. stranici udžbenika.
+          </template>
         </assignment>
       </post>
 
