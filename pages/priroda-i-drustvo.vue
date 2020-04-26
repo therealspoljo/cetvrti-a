@@ -3,7 +3,15 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🌳 Priroda i društvo</h1>
 
-      <post title="ČETVRTAK, 30. travnja">
+      <post
+        title="ČETVRTAK, 30. travnja"
+        :links="[
+          {
+            'title': 'Kviz o Jadranskom moru - Wordwall',
+            'url': 'https://wordwall.net/resource/135576/jadransko-more-i-%C5%BEiva-bi%C4%87a-uz-more-i-u-moru'
+          }
+        ]"
+      >
         <assignment>
           <template v-slot:title>
             Služeći se udžbenikom izradi "morski" rječnik s riječima i skupinama riječi koje su vezane uz primorske

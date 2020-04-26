@@ -6,8 +6,7 @@
       <post title="ČETVRTAK, 30. travnja">
         <assignment title="Zadatak">
           <template v-slot:title>
-            Izradi čudnovatu ribu na kartonskoj ambalaži iz domaćinstva koristeći kamenčiće, naplavine, plutene čepove i
-            sl.
+            Izradi čudnovatu ribu od kartonske ambalaže, kamenčića, naplavina, plutenih čepova i sl.
           </template>
         </assignment>
       </post>
