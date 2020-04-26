@@ -3,6 +3,24 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🎶 Glazbena kultura</h1>
 
+      <post title="UTORAK, 18. travnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Poslušaj glazbeni duet:
+          </template>
+          <template v-slot:default>
+            <a
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener"
+              href="https://www.youtube.com/watch?v=t1q7gu-gHBY"
+            >
+              &#128279; <span class="underline">Meri Cetinić i Oliver Dragojević - More</span>
+            </a>
+          </template>
+        </assignment>
+      </post>
+
       <post title="ČETVRTAK, 16. travnja">
         <assignment>
           <template v-slot:title>

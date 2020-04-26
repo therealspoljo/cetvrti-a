@@ -3,6 +3,33 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">➗ Matematika</h1>
 
+      <post title="SRIJEDA, 29. travnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Riješi 1., 2. i 5. zadatak na 78. stranici udžbenika. Pazi na redoslijed izvođenja računskih radnji!
+          </template>
+        </assignment>
+      </post>
+
+      <post title="PONEDJELJAK, 27. travnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Riješi listić:
+            <a
+              class="text-blue-600 underline"
+              target="_blank"
+              rel="noopener"
+              href="/matematika/pisano_dijeljenje_dvoznamenkastim_brojem.pdf"
+            >
+              Pisano dijeljenje dvoznamenkastim brojem
+            </a>
+          </template>
+          <template v-slot:default>
+            * Emily i Filipe, riješite samo 3. i 4. zadatak na 74. stranici udžbenika.
+          </template>
+        </assignment>
+      </post>
+
       <post title="UTORAK, 21. travnja">
         <assignment title="Zadatak 1">
           <template v-slot:title>

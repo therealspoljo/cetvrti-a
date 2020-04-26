@@ -3,6 +3,20 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🌳 Priroda i društvo</h1>
 
+      <post title="ČETVRTAK, 30. travnja">
+        <assignment>
+          <template v-slot:title>
+            Služeći se udžbenikom izradi "morski" rječnik s riječima i skupinama riječi koje su vezane uz primorske
+            krajeve RH. Riječi rasporedi po abecednom redu i objasni njihovo značenje.
+          </template>
+          <template v-slot:default>
+            Npr.: PRIMORJE, OTOK, POLUOTOK, PLIMA, OSEKA, BURA, JUGO, MAESTRAL, SUHOZIDI, SOLANA, VAZDAZELENO DRVEĆE,
+            SREDOZEMNA KLIMA, KRŠ, RIBARSTVO, SREDOZEMNE KULTURE, OVČARSTVO, KAŽUN, BOŠKARIN (ISTARSKO GOVEDO),
+            BRODOGRADNJA...
+          </template>
+        </assignment>
+      </post>
+
       <post title="PETAK, 17. travnja">
         <assignment>
           <template v-slot:title>

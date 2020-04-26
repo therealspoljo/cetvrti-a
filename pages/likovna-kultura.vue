@@ -3,6 +3,15 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🎨 Likovna kultura</h1>
 
+      <post title="ČETVRTAK, 30. travnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Izradi čudnovatu ribu na kartonskoj ambalaži iz domaćinstva koristeći kamenčiće, naplavine, plutene čepove i
+            sl.
+          </template>
+        </assignment>
+      </post>
+
       <post title="UTORAK, 14. travnja">
         <assignment>
           <template v-slot:title>
