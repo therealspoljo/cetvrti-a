@@ -3,7 +3,7 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🌳 Priroda i društvo</h1>
 
-      <post title="UTORAK, 5. svibnja">
+      <post title="PETAK, 8. svibnja">
         <assignment>
           <template v-slot:title>
             Spoji parove riječi:
