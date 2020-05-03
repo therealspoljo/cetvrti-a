@@ -6,7 +6,7 @@
       <post title="SRIJEDA, 6. svibnja">
         <assignment title="Zadatak">
           <template v-slot:title>
-            Zapleši i ti na pjesmu:
+            Zapleši i ti uz pjesmu:
             <a
               class="text-blue-600 underline"
               target="_blank"
