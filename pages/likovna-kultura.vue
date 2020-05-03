@@ -27,6 +27,16 @@
               class="text-blue-600"
               target="_blank"
               rel="noopener"
+              href="/likovna-kultura/mali_kreativci.pdf"
+            >
+              &#128279; <span class="underline">Mali kreativci</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener"
               href="/likovna-kultura/kompozicija_i_nijanse_boja.pdf"
             >
               &#128279; <span class="underline">Kompozicija i nijanse boja</span>
