@@ -3,6 +3,30 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🌳 Priroda i društvo</h1>
 
+      <post title="UTORAK, 5. svibnja">
+        <assignment>
+          <template v-slot:title>
+            Spoji parove riječi:
+            <a
+              class="text-blue-600 underline"
+              target="_blank"
+              rel="noopener"
+              href="https://learningapps.org/watch?v=p3zptku4t20"
+            >
+              Čuvaj sebe i bližnje
+            </a>
+          </template>
+        </assignment>
+      </post>
+
+      <post title="UTORAK, 5. svibnja">
+        <assignment>
+          <template v-slot:title>
+            Izradi umnu mapu o koronavirusu.
+          </template>
+        </assignment>
+      </post>
+
       <post
         title="ČETVRTAK, 30. travnja"
         :links="[

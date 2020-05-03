@@ -3,6 +3,22 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">🎶 Glazbena kultura</h1>
 
+      <post title="SRIJEDA, 6. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Poslušaj pjesmu koja je postala hit u cijelome svijetu u vrijeme koronavirusa:
+            <a
+              class="text-blue-600 underline"
+              target="_blank"
+              rel="noopener"
+              href="https://www.youtube.com/watch?v=r-8qeJMPyfQ"
+            >
+              OH NA NA NA
+            </a>
+          </template>
+        </assignment>
+      </post>
+
       <post title="UTORAK, 28. travnja">
         <assignment title="Zadatak">
           <template v-slot:title>

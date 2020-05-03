@@ -3,6 +3,65 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">➗ Matematika</h1>
 
+      <post title="PETAK, 8. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Riješi zadatke s listića:
+            <a
+              class="text-blue-600 underline"
+              target="_blank"
+              rel="noopener"
+              href="/matematika/vjezba_08052020.pdf"
+            >
+              Četiri računske radnje
+            </a>
+          </template>
+          <template v-slot:default>
+            * Emily i Filipe, riješite samo prva tri zadatka.
+          </template>
+        </assignment>
+      </post>
+
+      <post title="SRIJEDA, 6. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Prisjeti se vrsta trokuta, nauči ponešto novo o njima i riješi zadatke s listića:
+            <a
+              class="text-blue-600 underline"
+              target="_blank"
+              rel="noopener"
+              href="/matematika/vjezba_06052020.pdf"
+            >
+              Vrste trokuta
+            </a>
+          </template>
+        </assignment>
+      </post>
+
+      <post title="UTORAK, 5. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Prisjeti se opsega i površine i riješi zadatke:
+            <a
+              class="text-blue-600 underline"
+              target="_blank"
+              rel="noopener"
+              href="/matematika/vjezba_05052020.pdf"
+            >
+              Opseg i površina kvadrata i pravokutnika
+            </a>
+          </template>
+        </assignment>
+      </post>
+
+      <post title="PONEDJELJAK, 4. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Osmisli te riješi matematičku priču o "online" školi.
+          </template>
+        </assignment>
+      </post>
+
       <post title="SRIJEDA, 29. travnja">
         <assignment title="Zadatak">
           <template v-slot:title>

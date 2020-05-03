@@ -3,6 +3,23 @@
     <div class="px-8 space-y-15">
       <h1 class="font-bold text-3xl">📖 Hrvatski jezik</h1>
 
+      <post title="ČETVRTAK, 7. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            U obliku stripa prikaži jedan događaj na temu nošenja sa situacijom u kojoj se nalazimo.
+          </template>
+        </assignment>
+      </post>
+
+      <post title="PONEDJELJAK, 4. svibnja">
+        <assignment title="Zadatak">
+          <template v-slot:title>
+            Osmisli pjesmu na temu nošenja sa situacijom u kojoj se nalazimo. Neka naslov pjesme bude "Online škola".
+            Stihovi u pjesmi mogu, ali i ne moraju biti vezani rimom.
+          </template>
+        </assignment>
+      </post>
+
       <post title="UTORAK, 28. travnja">
         <assignment title="Zadatak">
           <template v-slot:title>
