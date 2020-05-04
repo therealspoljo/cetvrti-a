@@ -4,6 +4,22 @@
       <h1 class="font-bold text-3xl">💡 Sat razrednog odjela</h1>
 
       <post
+        title="PETAK, 8. svibnja"
+        :links="[
+          {
+            'title': 'Majčin dan',
+            'url': '/likovna-kultura/majcin_dan.pdf'
+          }
+        ]"
+      >
+        <assignment hide-title="true">
+          <template v-slot:title>
+            "O mamama sve najbolje" - S. Pilić 😊
+          </template>
+        </assignment>
+      </post>
+
+      <post
         title="ČETVRTAK, 7. svibnja"
         :links="[
           {
